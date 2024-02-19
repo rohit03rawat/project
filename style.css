@@ -1,0 +1,32 @@
+*{
+    font-family: 'barlow','Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('assets/bg.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    
+    background-color: #f5f5f5;
+}
+
+#navbar{
+
+    height: 50px;
+   color: #211951;
+     background-color: #836FFF;
+    font-size: 25px;
+    padding-top: 20px;
+    font-weight: bold;
+    text-decoration-line: none;
+}
+#epsilon{
+    margin: 20px;
+    padding: 20px;
+    margin-right: 800px;
+}
+#signup{
+    margin-left: 50px;
+}
