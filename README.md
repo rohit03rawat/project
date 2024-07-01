@@ -1,3 +1,9 @@
-This is html css project
+This is a practice web dev project.
 <br>
-learn web dev site
+Languages used in this project : 
+<br>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript<ul><li>JQuery</li></li>  
+</ul>
